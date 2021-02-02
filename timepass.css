@@ -1,0 +1,138 @@
+.pehla {
+    margin-left: 0;
+    height: 200px;
+    width: 150px;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+  .redt {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: pink;
+  }
+  .yellowtext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+  }
+  .greentext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#209111;
+  }
+  .bluetext {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: cyan;
+  }
+  .orangetext {
+    font-family:  'Helvetica Neue';
+    color: #ab711a; 
+  }
+  .indigo {
+      font-family: cursive;
+      color: blue;
+  }
+  .lastpart {
+    position: absolute;
+    top : 2900px;
+  }
+  .violettext {
+      font-family: monospace;
+      color: lavenderblush;
+  }
+  .red {
+    height: 320px;
+    width: 100%;
+   
+    background-color: rgba(252, 67, 67, 0.897);
+    margin: 0;
+  }
+  .orange {
+  
+    height: 320px;
+    width: 100%;
+    background-color: #f2b75e;
+    margin: 0;
+    animation: 10s orange 1;
+  }
+  @keyframes orange {
+    0%{margin-left: 100%;}
+    100%{margin-left: 0px;}
+  }
+  
+  .yellow {
+    animation: 10s orange 1;
+    height: 300px;
+    width: 100%;
+    background-color: #f2ef3f;
+  }
+  .bluecol {
+      height: 320px;
+      width: 100%;
+      background-color: #537fed;
+      margin: 0;
+      animation: 10s blueblur 1;
+  }
+  @keyframes blueblur {
+    0%{margin-left: 100%;}
+    100%{margin-left: 0px;}
+  }
+  .green {
+   
+    top: 1600px;
+    height: 300px;
+    width: 100%;
+    background-color: #3ff24e;
+  }
+.ET {
+    height: 200px;
+    width: 200px;
+}
+.blue {
+    background-color: #38B6FF;
+}
+.boost {
+    position: absolute;
+left: 200px;
+top: 0px;
+    height: 200px;
+    width: 300px;
+}
+.partner {
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.violet {
+    height: 400px;
+    width: 100%;
+    background-color: #d78bf7;
+    margin-left: 0px;
+    margin-right: 0px;
+    animation: 10s orange 1;
+}
+
+h1 {
+    text-align: center;
+    margin-top: -20px;
+    font-size: 70px;
+}
+.smiley {
+    margin-top: 100px;
+    margin-left: 60px;
+    height: 200px;
+    width: 200px;
+}
+h2 {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bloom {
+    margin-left: 170px;
+    height: 200px;
+    width: 200px;
+}
+.dedication {
+    margin-left: 270px;
+    height: 200px;
+    width: 200px;
+}
